@@ -1,0 +1,72 @@
+.service{
+	background-color: #ededed;
+	border:1px solid black;
+}
+.image-box{
+	width:100%;
+	/*background-image: url('../img/banner.jpg');
+	height:480px;
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center center;*/
+	position: relative;
+	
+}
+
+img{
+	width:100%;
+}
+.nav-link{
+	font-family: "ALK Life", sans-serif;
+}
+.service p{
+	font-family: 'Lato', sans-serif;
+
+}
+.fa-envelope-square{
+	font-size: 25px;
+	color:white;
+}
+.fa-envelope-square:hover{
+	
+	transform: rotate(90deg);
+
+}
+.fa-phone-square{
+	font-size: 25px;
+	color:white;
+}
+.fa-phone-square:hover{
+	
+	transform: rotate(90deg);
+}
+.fa-home{
+	font-size: 25px;
+	color: white;
+}
+.fa-home:hover{
+	
+	transform: rotate(90deg);
+}
+
+footer p{
+	color:white;
+	text-align: center;
+}
+footer i{
+	text-align: center;
+}
+.text-on-img{
+	position: absolute;
+	top: 20%;
+	left:40%;
+	font-size: 45px;
+	background-color: white;
+	margin: 25px 25px 25px 25px; 
+}
+.send-bg{
+	background-color: green;
+}
+.send-bg:hover{
+	background-color:yellow;
+}
